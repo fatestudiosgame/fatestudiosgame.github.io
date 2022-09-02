@@ -2,7 +2,7 @@
 layout: post
 title: Historia de Piratas
 ---
-## Tomado de la Revista Juega Fast Redactado por: Carlos Anaya noblesse
+*Tomado de la Revista Juega Fast Redactado por: Carlos Anaya (noblesse)*
 Se hace un tema interesante hablar sobre la piratería en los videojuegos y el cómo ha ido evolucionando esto a lo largo de los años ¿Está justificada la piratería? ¿Cuál es el daño real que le hace la piratería a la industria de los videojuegos? ¿Cómo se ha presentado este fenómeno aquí en Cuba?
 
 ## Navegando por la Industria
