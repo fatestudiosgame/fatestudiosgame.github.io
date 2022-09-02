@@ -2,13 +2,14 @@
 layout: post
 title: Historia de Piratas
 ---
-
+## H2
 Tomado de la Revista Juega Fast Redactado por: Carlos Anaya noblesse
-
+## H2
 Se hace un tema interesante hablar sobre la piratería en los videojuegos y el cómo ha ido evolucionando esto a lo largo de los años ¿Está justificada la piratería? ¿Cuál es el daño real que le hace la piratería a la industria de los videojuegos? ¿Cómo se ha presentado este fenómeno aquí en Cuba?
 
+## H2
 Navegando por la Industria
-
+## H2
 Vamos a llamar piratería a todo aquello que viole de alguna manera las reglas y leyes establecidas por los fabricantes y empresas de videojuegos.
 
 Una de las discusiones recurrentes de la industria, es aquella que abre debate sobre los derechos que tiene un usuario sobre los videojuegos que compra, siendo técnicamente legal crear una imagen o una ROM de un juego que se haya comprado, y lo ilegal, casi todo aquello que hagas con esto.
