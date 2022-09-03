@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Reseña Tales of Phantasia
+title: Tales of Phantasia | Reseña
 ---
-*Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)*
+#### *Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)*
 
 En estos días en que todos celebran alegremente la llegada al mercado de Tales of Arise, viene muy bien recordar los orígenes de la saga Tales of, una franquicia de juegos RPG a la altura de Final Fantasy y Dragon Quest.
 Su larga lista de juegos se extiende a más de 14 títulos principales y otro número elevado de spin-offs, contando a la vez con varias series anime y mangas basados en estos videojuegos.

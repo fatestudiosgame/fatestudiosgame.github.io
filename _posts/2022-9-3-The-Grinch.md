@@ -2,7 +2,7 @@
 layout: post
 title: The Grinch | Reseña
 ---
-*Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)*
+#### *Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)*
 
 Se me hace un poco difícil hacer una reseña de este videojuego. Pues recordaba a The Grinch como un videojuego perfecto, aquella joya rara que pocos conocían, pero de incalculable valor. Sin embargo, tuve la oportunidad en estos últimos días de volver a adentrarme a su raro mundo después de tantos años y creo exageré un poco las cosas en mi cabeza.
 Hoy vamos analizar el juego en su versión para PlayStation. También existe una versión para PC que no he podido probar, pero se ve bastante similar y otra de Dreamcast que ni siquiera he visto y por último existe una versión para Game Boy Color que es completamente diferente a estas anteriores.
