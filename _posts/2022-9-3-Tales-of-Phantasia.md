@@ -2,6 +2,8 @@
 layout: post
 title: Reseña Tales of Phantasia
 ---
+*Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)*
+
 En estos días en que todos celebran alegremente la llegada al mercado de Tales of Arise, viene muy bien recordar los orígenes de la saga Tales of, una franquicia de juegos RPG a la altura de Final Fantasy y Dragon Quest.
 Su larga lista de juegos se extiende a más de 14 títulos principales y otro número elevado de spin-offs, contando a la vez con varias series anime y mangas basados en estos videojuegos.
 Tales of Phantasia, el primero de su nombre, vio la luz en el año 1995, en la siempre recordada y querida Super Nintendo, una consola que estuvo plagada de títulos de muy buena calidad, que a día de hoy siguen siendo leyendas.
