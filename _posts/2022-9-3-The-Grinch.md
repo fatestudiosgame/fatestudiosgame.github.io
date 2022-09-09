@@ -9,6 +9,7 @@ Hoy vamos analizar el juego en su versión para PlayStation. También existe una
 ## HISTORIA
 La historia de este videojuego se remonta a la película del mismo nombre protagonizada por Jim Carrey en el año 2000 basada en el cuento navideño: ¡Cómo el Grinch robó la Navidad!, escrito por Dr. Seuss en 1957.
 Pero yo no he visto la peli así que no puedo decirles si este videojuego es una buena adaptación y la peli animada que salió en el 2018 aunque me gustó mucho en su momento tampoco la recuerdo así que nada, les cuento solamente la historia del videojuego.
+
 El Grinch es un personaje pintoresco y amargado que vive en lo alto de una montaña. Es completamente verde y peludo y siempre está malhumorado. Vive en compañía de su fiel perrito Max que lo ayudará a lo largo del juego en distintas ocasiones.
 El Grinch vive apartado del pueblo de los Who (“Quien” en su versión española). Un pueblo alegre que ama la navidad y por supuesto es odiado por el Grinch.
 El pueblo se llama WhoVille (VillaQuien) y serán este y otros lugares cercanos, los principales escenarios de este videojuego.
