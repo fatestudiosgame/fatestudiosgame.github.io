@@ -1,18 +1,23 @@
----
-layout: default
----
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | El Cantinero del Rock (lite)</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 600px; height: 960px; background: #000000"></canvas>
+    <script src="Build/fatestudiosgame.github.io.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/fatestudiosgame.github.io.data.gz",
+        frameworkUrl: "Build/fatestudiosgame.github.io.framework.js.gz",
+        codeUrl: "Build/fatestudiosgame.github.io.wasm.gz",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "fatestudiosgame",
+        productName: "El Cantinero del Rock (lite)",
+        productVersion: "1.3.0",
+      });
+    </script>
+  </body>
+</html>
