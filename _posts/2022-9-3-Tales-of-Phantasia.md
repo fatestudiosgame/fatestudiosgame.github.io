@@ -1,5 +1,5 @@
 ---
-date: 2022-09-01T23:48:05.000Z
+date: 2022-09-03T23:48:05.000Z
 layout: post
 title: Tales of Phantasia | Reseña
 subtitle: Un RPG de la vieja escuela

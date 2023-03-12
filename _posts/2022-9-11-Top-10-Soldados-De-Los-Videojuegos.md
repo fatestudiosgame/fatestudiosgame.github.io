@@ -1,5 +1,5 @@
 ---
-date: 2022-09-01T23:48:05.000Z
+date: 2022-09-11T23:48:05.000Z
 layout: post
 title: Top 10 soldados de los videojuegos
 subtitle: Los tipos más duros de los videojuegos
