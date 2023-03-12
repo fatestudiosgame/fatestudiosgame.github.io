@@ -6,9 +6,9 @@ subtitle: La pirateria en los videojuegos
 description: >-
   Tomado de la Revista Juega Fast Redactado por Carlos Anaya (noblesse)
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  src/img/pirata02.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  src/img/pirata02.jpg
 category: blog
 tags:
   - pirateria
