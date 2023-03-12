@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: FATESTUDIOSGAME
+title: FATESTUDIOSGAME | Un blog sobre videojuegos en Cuba 
+description: FATESTUDIOSGAME es un estudio de videojuegos con sede en Cuba que tiene el objetivo de promover los videojuegos como cultura.
 tags:
   - blog
   - template
@@ -19,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: fatestudiosgame@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -30,9 +29,9 @@ formspree_form_id: formspree_form_id
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
+facebook_username: Crónicas de un Gamer Cubano
+twitter_username: fatestudiosgame
+instagram_username: fatestudiosgame
 linkedin_username: linkedin_username
 medium_username: medium_username
 
