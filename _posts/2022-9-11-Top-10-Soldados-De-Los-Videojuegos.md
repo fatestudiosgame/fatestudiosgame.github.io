@@ -4,7 +4,7 @@ layout: post
 title: Top 10 soldados de los videojuegos
 subtitle: Los tipos más duros de los videojuegos
 description: >-
-  Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)
+  Tomado de la Revista Turbeadores de Cuba 
 image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-10-soldados.jpg
 optimized_image: >-

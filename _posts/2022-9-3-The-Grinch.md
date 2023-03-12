@@ -4,11 +4,11 @@ layout: post
 title: The Grinch | Reseña
 subtitle: Un videojuego para la navidad
 description: >-
-  Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)
+  Tomado de la Revista Turbeadores de Cuba 
 image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/grinch01.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/grinch01.jpg
 category: blog
 tags:
   - grinch

@@ -4,7 +4,7 @@ layout: post
 title: Historia de Piratas
 subtitle: La pirateria en los videojuegos
 description: >-
-  Tomado de la Revista Juega Fast Redactado por Carlos Anaya (noblesse)
+  Tomado de la Revista Juega Fast 
 image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/pirata02.jpg
 optimized_image: >-

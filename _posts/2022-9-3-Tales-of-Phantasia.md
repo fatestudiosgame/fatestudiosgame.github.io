@@ -4,7 +4,7 @@ layout: post
 title: Tales of Phantasia | Reseña
 subtitle: Un RPG de la vieja escuela
 description: >-
-  Tomado de la Revista Turbeadores de Cuba Redactado por: Carlos Anaya (noblesse)
+  Tomado de la Revista Turbeadores de Cuba
 image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/tales-of-phantasia.png
 optimized_image: >-
