@@ -1,5 +1,5 @@
 ---
-date: 2022-03-10T23:48:05.000Z
+date: 2023-03-10T23:48:05.000Z
 layout: post
 title: Videojuegos de inicios del 2023
 subtitle: Acontecer gamer de Cuba y el mundo
