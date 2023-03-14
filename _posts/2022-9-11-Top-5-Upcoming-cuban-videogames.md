@@ -19,7 +19,6 @@ paginate: true
 ---
 Hola amigos sean bienvenidos a una nueva reseña de los fatestudios. En el día de hoy hablaremos de 5 videojuegos cubanos que actualmente se encuentran en desarrollo y tienen muy buena pinta.
 
-[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg)](https://www.youtube.com/watch?v=v1eDNIOZgTE&feature=youtu.be)
 
 ### 1. Saviorless (Empty Head Games)
 
@@ -31,7 +30,8 @@ El juego como ya le he dicho en otras ocasiones es una plataforma artística de 
 
 Durante la historia tenemos que ir alternando constantemente entre los dos personajes principales, un frágil e imprudente niño y una despiadada criatura que quiere escapar de este oscuro lugar.
 
- https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/01-saviorless.png
+![imagen de saviorless]( https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/01-saviorless.png)
+
 
 ### 2. Cebi (CITMATEL)
 
@@ -47,7 +47,8 @@ En este primer juego el objetivo es, en cada uno sus niveles, encontrar estos ob
 
 Realmente no sé si esta segunda parte seguirá esta fórmula así que solo nos queda especular y esperar nuevas noticias sobre este juego.
 
-https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/02-cebi.jpg
+![imagen de cebi](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/02-cebi.jpg)
+
 
 ### 3. Nobody Kingdom (Green Rune Studio)
 
@@ -71,7 +72,9 @@ Esta segunda parte parece que quiere mejorar toda la fórmula empezando por los 
 
 Esperar por más noticias de este juego, a mí me recuerda un poco a los Zeldas pero bueno habrá que esperar y ver nos depara el futuro.
 
-https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/03-auria.png
+![imagen de auria 2](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/03-auria.png)
+
+
 
 ### 4. The Other Hotel (Insane Forge Games)
 
@@ -85,7 +88,9 @@ Su protagonista es Frank, un descendiente de inmigrantes cubanos que viaja Cuba 
 
 Uno de los puntos por los que apuestan los desarrolladores es por el apartado gráfico del juego al que le han dedicado mucho esfuerzo atendiendo a cada detalle. Los desarrolladores prometen una fidelidad arquitectónica muy grande resultado de meses de investigación histórica. Además nos hablan de mecánicas atrapantes que harán del juego una experiencia totalmente inmersiva.
 
-https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/04-the-other-hotel.jpg
+
+
+![imagen de The other hotel](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/04-the-other-hotel.jpg)
 
 
 ### 5. Lost Bloodline (90 miles studios) 
@@ -100,8 +105,9 @@ https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/mast
 
 Los desarrolladores nos invitan a vivir una aventura sin límites llena de castillos, mazmorras y poblados misteriosos donde tenemos que evolucionar como guerreros, aprender habilidades y encontrar nuevas y poderosas armas.
 
-https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/05- the-lost-bloodline.jpg
 
+
+![imagen de The other hotel](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/05- the-lost-bloodline.jpg)
 
 
 >Y nada amigos esto han sido solo algunos de los videojuegos cubanos que actualmente se encuentran en desarrollo. De donde salieron estos hay muchos otros que ya se están cocinando y pronto tendremos noticias.
@@ -109,3 +115,5 @@ https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/mast
 Muchas gracias por llegar hasta aquí, pueden decirnos en los comentarios cuál fue el juego que más les gustó y si conocen algún otro juego que esté en desarrollo y no se olviden de compartir este video con sus amigos para que todos se enteren para que todos sepan que los cubanos también sabemos hacer videos y de muy buena calidad.
 
  Por aquí, somos los fatestudios y como siempre, seguimos buscando la luz, chao chao.
+
+ [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/blog-image.png)](https://www.youtube.com/watch?v=v1eDNIOZgTE&feature=youtu.be)
