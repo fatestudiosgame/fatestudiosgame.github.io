@@ -9,7 +9,7 @@ image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/grinch01.jpg
 optimized_image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/grinch01.jpg
-category: blog
+category: RESEÑA
 tags:
   - grinch
   - blog

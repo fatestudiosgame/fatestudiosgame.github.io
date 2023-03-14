@@ -9,7 +9,7 @@ image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/tales-of-phantasia.png
 optimized_image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/tales-of-phantasia.png
-category: blog
+category: RESEÑA
 tags:
   - pirateria
   - blog

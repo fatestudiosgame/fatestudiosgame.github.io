@@ -9,7 +9,7 @@ image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/pirata02.jpg
 optimized_image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/pirata02.jpg
-category: blog
+category: BLOG
 tags:
   - pirateria
   - blog

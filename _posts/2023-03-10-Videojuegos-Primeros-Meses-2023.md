@@ -9,7 +9,7 @@ image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/videojuegos-febrero-2023.jpg
 optimized_image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/videojuegos-febrero-2023.jpg
-category: blog
+category: BLOG
 tags:
   - videojuegos
   - blog
