@@ -19,7 +19,7 @@ paginate: true
 ---
 Hola amigos sean bienvenidos a una nueva reseña de los fatestudios. En el día de hoy hablaremos de 5 videojuegos cubanos que actualmente se encuentran en desarrollo y tienen muy buena pinta.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+[![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg)](https://www.youtube.com/watch?v=v1eDNIOZgTE&feature=youtu.be)
 
 ### 1. Saviorless (Empty Head Games)
 
