@@ -1,14 +1,14 @@
 ---
 date: 2023-03-10T23:48:05.000Z
 layout: post
-title: Videojuegos de inicios del 2023
-subtitle: Acontecer gamer de Cuba y el mundo
+title: Kubakart
+subtitle: Videojuego Cubano
 description: >-
-  Los primeros éxitos y decepciones del año 
+  Videojuego cubano de carreras inspirado en Mario Kart
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/videojuegos-febrero-2023.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/kubakart.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/videojuegos-febrero-2023.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/kubakart.jpg
 category: blog
 tags:
   - videojuegos
