@@ -19,6 +19,8 @@ paginate: true
 ---
 Hola amigos sean bienvenidos a un nuevo video de los fatestudios. Desde el primer momento que la tecnología permitió que las historias y los gráficos de los videojuegos se complejizaran, surgieron grandes figuras que han dejado su huella en nuestros corazones. En el día de hoy estaremos dado un repaso a cada uno de estos personajes que han destacado por su increible carisma y por sus peculiares habilidades en el campo de batalla.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 ### 10. Sgt. Hawk( Army Men)
 
 Sarge es uno de los protagonistas de la saga Army Men. Una extensa serie de videojuegos que nos lleva a un mundo de soldados de plástico. 
