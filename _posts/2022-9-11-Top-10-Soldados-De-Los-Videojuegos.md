@@ -1,6 +1,6 @@
 ---
 date: 2022-09-11T23:48:05.000Z
-layout: TOP
+layout: post
 title: Top 10 soldados de los videojuegos
 subtitle: Los tipos más duros de los videojuegos
 description: >-
@@ -9,7 +9,7 @@ image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-10-soldados.jpg
 optimized_image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-10-soldados.jpg
-category: blog
+category: TOP
 tags:
   - pirateria
   - blog
