@@ -1,14 +1,14 @@
 ---
 date: 2022-09-11T23:48:05.000Z
 layout: post
-title: Top 10 soldados de los videojuegos
-subtitle: Los tipos más duros de los videojuegos
+title: Top 5 Upcoming cuban videogames
+subtitle: Videojuegos Cubanos en desarrollo
 description: >-
-  Tomado de la Revista Turbeadores de Cuba 
+  Tomado del canal de Youtube de Fatestudiosgame 
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames .jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames .jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames.jpg
 category: blog
 tags:
   - pirateria
@@ -18,6 +18,8 @@ author: noblesse
 paginate: true
 ---
 Hola amigos sean bienvenidos a una nueva reseña de los fatestudios. En el día de hoy hablaremos de 5 videojuegos cubanos que actualmente se encuentran en desarrollo y tienen muy buena pinta.
+
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=v1eDNIOZgTE" frameborder="0" allowfullscreen></iframe>
 
 ### 1. Saviorless (Empty Head Games)
 
