@@ -116,4 +116,4 @@ Muchas gracias por llegar hasta aquí, pueden decirnos en los comentarios cuál 
 
  Por aquí, somos los fatestudios y como siempre, seguimos buscando la luz, chao chao.
 
- [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/blog-image.png)](https://www.youtube.com/watch?v=v1eDNIOZgTE&feature=youtu.be)
+ [![IMAGE ALT TEXT HERE](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/blog-image.png  )](https://www.youtube.com/watch?v=v1eDNIOZgTE&feature=youtu.be)
