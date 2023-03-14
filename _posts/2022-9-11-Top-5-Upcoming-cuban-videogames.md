@@ -6,9 +6,9 @@ subtitle: Videojuegos Cubanos en desarrollo
 description: >-
   Tomado del canal de Youtube de Fatestudiosgame 
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg
 category: blog
 tags:
   - pirateria
@@ -31,6 +31,8 @@ El juego como ya le he dicho en otras ocasiones es una plataforma artística de 
 
 Durante la historia tenemos que ir alternando constantemente entre los dos personajes principales, un frágil e imprudente niño y una despiadada criatura que quiere escapar de este oscuro lugar.
 
+ https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/01-saviorless.png
+
 ### 2. Cebi (CITMATEL)
 
  En Segundo lugar, quiero hablarles de un videojuego que está siendo desarrollado por los muchachos de Citmatel.
@@ -44,6 +46,8 @@ Que nos cuenta la historia de un pequeño duende que tiene que recuperar algunas
 En este primer juego el objetivo es, en cada uno sus niveles, encontrar estos objetos que le fueron robados que están distribuidos por todo el escenario.
 
 Realmente no sé si esta segunda parte seguirá esta fórmula así que solo nos queda especular y esperar nuevas noticias sobre este juego.
+
+https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/02-cebi.jpg
 
 ### 3. Nobody Kingdom (Green Rune Studio)
 
@@ -67,6 +71,7 @@ Esta segunda parte parece que quiere mejorar toda la fórmula empezando por los 
 
 Esperar por más noticias de este juego, a mí me recuerda un poco a los Zeldas pero bueno habrá que esperar y ver nos depara el futuro.
 
+https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/03-auria.png
 
 ### 4. The Other Hotel (Insane Forge Games)
 
@@ -80,6 +85,9 @@ Su protagonista es Frank, un descendiente de inmigrantes cubanos que viaja Cuba 
 
 Uno de los puntos por los que apuestan los desarrolladores es por el apartado gráfico del juego al que le han dedicado mucho esfuerzo atendiendo a cada detalle. Los desarrolladores prometen una fidelidad arquitectónica muy grande resultado de meses de investigación histórica. Además nos hablan de mecánicas atrapantes que harán del juego una experiencia totalmente inmersiva.
 
+https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/04-the-other-hotel.jpg
+
+
 ### 5. Lost Bloodline (90 miles studios) 
 
  Y el quinto y último lugar de esta lista es The Lost Bloodline, un videojuego que está siendo desarrollado por los muchachos de 90 Miles Studios y que pertenece al género de Acción-Aventura .
@@ -91,6 +99,9 @@ Uno de los puntos por los que apuestan los desarrolladores es por el apartado gr
  El juego tiene prevista su fecha de salida para el 20 de junio de 2023 y desde ahora pueden agregarlo a su lista de deseados en STEAM.
 
 Los desarrolladores nos invitan a vivir una aventura sin límites llena de castillos, mazmorras y poblados misteriosos donde tenemos que evolucionar como guerreros, aprender habilidades y encontrar nuevas y poderosas armas.
+
+https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/05- the-lost-bloodline.jpg
+
 
 
 >Y nada amigos esto han sido solo algunos de los videojuegos cubanos que actualmente se encuentran en desarrollo. De donde salieron estos hay muchos otros que ya se están cocinando y pronto tendremos noticias.
