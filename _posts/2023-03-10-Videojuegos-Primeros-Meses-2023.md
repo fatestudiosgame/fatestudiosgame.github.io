@@ -32,8 +32,8 @@ El juego por supuesto también contará con mecánicas que harán que los jugado
 Y en tercer lugar decirles que en estos meses se estuvieron celebrando diferentes actividades y lamentablemente nosotros no pudios asistir a casi ninguna. De entre todas estas actividades quiero destacar la Global Game Jam en su edición del 2023, este evento donde los amantes de los videojuegos se reúnen para desarrollar videojuegos en pocas horas.
 Como les decía lamentablemente no pudimos asistir, pero ya los muchachos de VERTEX de la UCi nos hicieron llegar los videojuegos presentados así que pronto les traeremos un video con nuestras opiniones sobre todos estos juegos, son bastantes juegos que probar y esperamos que los disfruten.
 
-
->Una vez pasado hablado un poco de lo sucedido en Cuba en estos meses, toca ahora hablar de los juegos que han sido tendencias en estas semanas, ya sea porque fueron una gran decepción o simplemente porque son seguros candidatos al GOTY de este año, sin más,
+**** 
+Una vez pasado hablado un poco de lo sucedido en Cuba en estos meses, toca ahora hablar de los juegos que han sido tendencias en estas semanas, ya sea porque fueron una gran decepción o simplemente porque son seguros candidatos al GOTY de este año, sin más,
 
 ## Acontecer Gamer Internacional
 
@@ -61,5 +61,6 @@ Este juego destacó porque se ambienta en una sociedad distópica donde la Unió
 El juego es un videojuego de disparos en primera persona que apuesta bastante por el combate cuerpo a cuerpo y ha fascinado a todos lo que lo han probado por sus gráficos y su historia.
 Por supuesto un juego de este tipo no estuvo falto de sus respectivas polémicas y nosotros como ya se imaginan no podemos opinar porque no hemos podido probarlo todavía.
 
->Y bueno amigos así, al ritmo de la banda sonora de Atomic hearts despedimos este video, no sin antes invitarlos nuevamente a que se suscriban dejen en los comentarios cual de todos fue su lanzamiento favorito. Si les gusto este formato de video más informal y presencial y nada aquí estamos por aquí somos los fatestudios y como siempre, seguimos buscando la luz. 
+**** 
+Y bueno amigos así, al ritmo de la banda sonora de Atomic hearts despedimos este video, no sin antes invitarlos nuevamente a que se suscriban dejen en los comentarios cual de todos fue su lanzamiento favorito. Si les gusto este formato de video más informal y presencial y nada aquí estamos por aquí somos los fatestudios y como siempre, seguimos buscando la luz. 
 Chao chao.
