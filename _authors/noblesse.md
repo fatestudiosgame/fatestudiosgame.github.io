@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/noblese_avatar.png
+photo: /assets/img/uploads/noblese_avatar.jpg
 name: noblesse
 display_name: Noblesse
 position: The One
