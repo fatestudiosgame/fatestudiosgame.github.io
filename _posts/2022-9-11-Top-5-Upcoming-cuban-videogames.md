@@ -6,9 +6,9 @@ subtitle: Videojuegos Cubanos en desarrollo
 description: >-
   Tomado del canal de Youtube de Fatestudiosgame 
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.webp
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.webp
 category: blog
 tags:
   - pirateria
@@ -30,7 +30,7 @@ El juego como ya le he dicho en otras ocasiones es una plataforma artística de 
 
 Durante la historia tenemos que ir alternando constantemente entre los dos personajes principales, un frágil e imprudente niño y una despiadada criatura que quiere escapar de este oscuro lugar.
 
-![imagen de saviorless]( https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/01-saviorless.png)
+![imagen de saviorless]( https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/01-saviorless.webp)
 
 
 ### 2. Cebi (CITMATEL)
@@ -47,7 +47,7 @@ En este primer juego el objetivo es, en cada uno sus niveles, encontrar estos ob
 
 Realmente no sé si esta segunda parte seguirá esta fórmula así que solo nos queda especular y esperar nuevas noticias sobre este juego.
 
-![imagen de cebi](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/02-cebi.jpg)
+![imagen de cebi](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/02-cebi.webp)
 
 
 ### 3. Nobody Kingdom (Green Rune Studio)
@@ -72,7 +72,7 @@ Esta segunda parte parece que quiere mejorar toda la fórmula empezando por los 
 
 Esperar por más noticias de este juego, a mí me recuerda un poco a los Zeldas pero bueno habrá que esperar y ver nos depara el futuro.
 
-![imagen de auria 2](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/03-auria.png)
+![imagen de auria 2](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/03-auria.webp)
 
 
 
@@ -90,7 +90,7 @@ Uno de los puntos por los que apuestan los desarrolladores es por el apartado gr
 
 
 
-![imagen de The other hotel](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/04-the-other-hotel.jpg)
+![imagen de The other hotel](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/04-the-other-hotel.webp)
 
 
 ### 5. Lost Bloodline (90 miles studios) 
@@ -107,7 +107,7 @@ Los desarrolladores nos invitan a vivir una aventura sin límites llena de casti
 
 
 
-![imagen de The other hotel](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/05- the-lost-bloodline.jpg)
+![imagen de The other hotel](https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/05- the-lost-bloodline.webp)
 
 
 >Y nada amigos esto han sido solo algunos de los videojuegos cubanos que actualmente se encuentran en desarrollo. De donde salieron estos hay muchos otros que ya se están cocinando y pronto tendremos noticias.
