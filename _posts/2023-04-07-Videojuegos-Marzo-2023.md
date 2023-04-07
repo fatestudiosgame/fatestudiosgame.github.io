@@ -4,7 +4,7 @@ layout: post
 title: Videojuegos Marzo 2023
 subtitle: Acontecer gamer de Cuba y el mundo
 description: >-
-  Videojuegos y eventos de marzo 2023
+  Videojuegos de marzo 2023
 image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/videojuegos-marzo-2023.jpg
 optimized_image: >-
