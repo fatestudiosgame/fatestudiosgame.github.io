@@ -6,9 +6,9 @@ subtitle: Videojuegos Cubanos en desarrollo
 description: >-
   Pequeñas ideas sobre la llegada del anime a Cuba
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/naruto-la-llegada-de-los-monos-chinos.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/naruto-la-llegada-de-los-monos-chinos.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/naruto-la-llegada-de-los-monos-chinos.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/naruto-la-llegada-de-los-monos-chinos.jpg
 category: TOP
 tags:
   - anime
