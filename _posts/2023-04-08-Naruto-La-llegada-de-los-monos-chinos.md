@@ -1,18 +1,18 @@
 ---
 date: 2022-09-11T23:48:05.000Z
 layout: post
-title: Naruto lallegada de los monos chinos
+title: Naruto. La llegada de los monos chinos
 subtitle: Videojuegos Cubanos en desarrollo
 description: >-
   Pequeñas ideas sobre la llegada del anime a Cuba
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/naruto-la-llegada-de-los-monos-chinos.jpg
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/top-5-upcoming-cuban-videogames.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/top-5-upcoming-cuban-videogames/naruto-la-llegada-de-los-monos-chinos.jpg
 category: TOP
 tags:
-  - pirateria
-  - blog
+  - anime
+  - manga
   - fatestudiosgame
 author: noblesse
 paginate: true
