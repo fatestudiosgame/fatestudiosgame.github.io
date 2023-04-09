@@ -9,7 +9,7 @@ image: >-
    https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/casual-wars/casual-wars-01.jpg
 optimized_image: >-
   https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/casual-wars/casual-wars-01.jpg
-category: TOP
+category: RESEÑA
 tags:
   - videojuego
   - cubano
