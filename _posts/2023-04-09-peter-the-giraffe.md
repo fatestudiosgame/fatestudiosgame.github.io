@@ -1,20 +1,20 @@
 ---
 date: 2022-09-11T23:48:05.000Z
 layout: post
-title: Naruto. La llegada de los monos chinos
-subtitle: Videojuegos Cubanos en desarrollo
+title: Peter The giraffe  
+subtitle: Videojuego Cubano
 description: >-
-  Pequeñas ideas sobre la llegada del anime a Cuba
+  Pequeña reseña sobre el videojuego 
 image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/naruto-la-llegada-de-los-monos-chinos.jpg
+  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/peter-the-giraffe/peter-the-giraffe.png
 optimized_image: >-
-  https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/naruto-la-llegada-de-los-monos-chinos.jpg
-category: TOP
+ https://raw.githubusercontent.com/fatestudiosgame/fatestudiosgame.github.io/master/src/img/images-post/peter-the-giraffe/peter-the-giraffe.png
+category: RESEÑA
 tags:
   - videojuego
   - cubano
-  - matandile games
+  - luife games
 author: noblesse
 paginate: true
 ---
-Yeti bajó a la jungla, pues algo sucedía en su montaña nevada. A Gorila, que es muy territorial, y se hacía llamar el jefe de la jungla, no le gustó la idea, y quiso expulsar a Yeti. Ambos se fueron a una pelea. Este es un videojuego para toda la familia donde niños y adultos podrán poner a prueba sus habilidades matemáticas. Es un videojuego para dos jugadores e incluso permite conectar un segundo celular como mando remoto.  
+Este es uno de los mejores videojuegos que ha pasado por este canal. Una experiencia muy corta, pero a la vez necesaria para todos aquellos gamers que buscan algo más en los videojuegos que solo la pura diversión. En el juego tomamos el papel de Peter La Jirafa en una pequeña ciudad donde brindaremos nuestra ayuda a sus diferentes habitantes. Súper recomendado.  

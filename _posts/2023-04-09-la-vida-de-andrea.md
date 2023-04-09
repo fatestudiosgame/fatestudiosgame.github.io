@@ -2,7 +2,7 @@
 date: 2022-09-11T23:48:05.000Z
 layout: post
 title: La vida de Andrea. un videojuego para valientes
-subtitle: Videojuegos Cubanos en desarrollo
+subtitle: Videojuego Cubano
 description: >-
     Pequeña reseña sobre el videojuego 
 image: >-
