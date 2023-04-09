@@ -1,7 +1,7 @@
 ---
 date: 2022-09-11T23:48:05.000Z
 layout: post
-title: Naruto. La llegada de los monos chinos
+title: Gorila vs Yeti. Matemáticas para la familia
 subtitle: Videojuegos Cubanos en desarrollo
 description: >-
   Pequeñas ideas sobre la llegada del anime a Cuba
